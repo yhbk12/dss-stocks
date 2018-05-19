@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module2"
+Attribute VB_Name = "Perceptron"
 Sub Estimate_CP_Min_Sum_Error()
 Attribute Estimate_CP_Min_Sum_Error.VB_ProcData.VB_Invoke_Func = " \n14"
 
