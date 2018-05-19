@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "Historical"
 Sub RetrieveHistoricalData()
 Attribute RetrieveHistoricalData.VB_ProcData.VB_Invoke_Func = " \n14"
 
