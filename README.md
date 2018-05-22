@@ -17,7 +17,7 @@ As seen in the image below, the user can click a button to refresh the historica
 ### Perceptron 
 Estimates the stock's next day closing price. Using Excel Solver, the multilayer perceptron's internal weights are optimized based on the chosen metric. The user can select to minimize the total sum of error, or to minimize the maximum error.
 
-Again, the user can select which optimization metric to use by clicking a button.
+Again, the user can select which cost function to use by clicking a button.
 
 [](url)
 ![estimate-next](https://user-images.githubusercontent.com/16723379/40272616-3d7f2eec-5b7e-11e8-9341-fef12fd2860b.PNG)
