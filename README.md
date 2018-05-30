@@ -8,7 +8,9 @@ Takes a user-inputted tickery symbol (i.e. AAPL), and queries Google Finance to 
 
 As seen in the image below, the user can click a button to refresh the historical data query for the NASDAQ stock symbol chosen.
 
-![historical](https://user-images.githubusercontent.com/16723379/40272632-643bfa4c-5b7e-11e8-984e-5ef259fdb0f2.PNG)
+[
+![historical](https://user-images.githubusercontent.com/16723379/40694232-97a40402-6389-11e8-9bca-e1a83af454d7.PNG)
+](url)
 
 
 
